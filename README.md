@@ -10,4 +10,4 @@ The solution contained:
 
 1-Python notebook (work progress)
 
-2-Powerpoint Presentation (identified trends, advanced analytics, interpretation and recommendations)
+2-Report in word document (identified trends, advanced analytics, interpretation and recommendations)
